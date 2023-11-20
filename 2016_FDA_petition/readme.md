@@ -18,6 +18,21 @@ First study consisted of 3 parts
 1. asdf
 2. Women without a uterus (underwent a hysterectomy). These women experience hormone drops.
 
+## Study 1  - Estrogen/Progesterone with uteruses ##
+From JAMA 2002 paper:
+- "**Objective:** To assess the major health benefits and risks of the most commonly used combined hormone preparation in the United States."
+- "**Design:** Estrogen plus progestin component of the Women’s Health Initiative, a randomized controlled primary prevention trial (planned duration, 8.5 years) in which 16 608 postmenopausal women aged 50-79 years with an intact uterus at baseline were recruited by 40 US clinical centers in 1993-1998.
+- **Interventions:** Participants received conjugated equine estrogens, 0.625 mg/d, plus medroxyprogesterone acetate, 2.5 mg/d, in 1 tablet (n=8506) or placebo (n=8102).
+- **Main Outcomes Measures** The primary outcome was coronary heart disease (CHD) (nonfatal myocardial infarction and CHD death), with invasive breast cancer as the primary adverse outcome. A global index summarizing the balance of risks and benefits included the 2 primary outcomes plus stroke, pulmonary embolism (PE), endometrial cancer, colorectal cancer, hip fracture, and death due to other causes.
+  - Risks (TODO: more, some may be benefits)
+     - invasive breast cancer
+     - stroke
+     - Venous thromboembolic disease
+  - Benefits
+     - reduction in coronary heart disease
+
+
+
 - Women's Health Initiative Memory Study (WHIMS) estrogen-alone ancillary subtrial
   - 2,947 hysterectomized postmenopausal women
   - age 65 to 79
